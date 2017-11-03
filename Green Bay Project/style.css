@@ -1,0 +1,82 @@
+header{
+  font-family: sans-serif;
+  font-style: impact;
+  font-weight: bold;
+  text-align: center;
+  color: #FFB81C;
+  font-size: 75px;
+}
+
+table, th, tr, td{
+  border-style: inset;
+  border-collapse: collapse;
+}
+
+thead {
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+body {
+  background-image: url("http://images6.fanpop.com/image/photos/35300000/Green-Bay-Packers-Wallpaper-green-bay-packers-35376434-1900-1200.jpg");
+  background-attachment: fixed;
+  }
+
+#Rankings {
+  padding-bottom: : 50px;
+  width: 300px;
+  height: 125px;
+  font-size: 25px;
+}
+
+section {
+  float: left;
+}
+
+aside {
+  float: right;
+}
+
+tr:hover{background-color:#FFB81C;
+  background-op
+}
+
+#Radio {
+  font-size: 21px;
+  color: #FFB81C;
+}
+
+article {
+  padding-top: 50px;
+  clear: both;
+}
+
+#Number12 {
+  height: 425px;
+  width: 525px;
+}
+
+.Pic1 {
+  position: relative;
+  color: white;
+  font-size: 50px;
+}
+
+.PictureText {
+  position: absolute;
+  bottom: 8px;
+}
+
+p {
+  border-color: #FFB81C;
+  border-style: inset;
+  height: 225px;
+  width: 524px;
+  text-wrap: normal;
+  font-size: 20px;
+  color: white;
+  overflow: auto;
+}
